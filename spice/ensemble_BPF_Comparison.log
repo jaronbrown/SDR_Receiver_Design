@@ -1,0 +1,22 @@
+Circuit: * C:\Users\beagl\OneDrive\Documents\College Classes\ENGR357 - Engineering Electronics 2\engr357-receiver-design\spice\ensemble_BPF_Comparison.asc
+
+WARNING: Node N003 is floating.
+WARNING: Node N004 is floating.
+WARNING: Node N009 is floating.
+
+
+Date: Thu Jun 06 21:56:31 2024
+Total elapsed time: 0.176 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 0
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 33
+fillins = 20
+solver = Normal
+

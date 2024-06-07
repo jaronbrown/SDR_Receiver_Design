@@ -1,0 +1,41 @@
+Circuit: * C:\Users\beagl\OneDrive\Documents\College Classes\ENGR357 - Engineering Electronics 2\ENGR357_Receiver_Design\engr357-receiver-design\spice\AM_Mixer.asc
+
+WARNING: Less than two connections to node V_TEST.  This node is used by V4.
+Direct Newton iteration for .op point succeeded.
+
+
+Measurement "vout_max" FAIL'ed
+
+Measurement "vout_min" FAIL'ed
+
+Measurement "vout_vpp" FAIL'ed
+vin_max: MAX(v(vin))=2.22773 FROM 0 TO 1e-005
+vin_min: MIN(v(vin))=2.47499e-009 FROM 0 TO 1e-005
+vin_vpp: vin_max-vin_min=2.22773
+
+Measurement "amp_gain" FAIL'ed
+vrf_max: MAX(v(v_rf))=4.50001 FROM 0 TO 1e-005
+vrf_min: MIN(v(v_rf))=2.27227 FROM 0 TO 1e-005
+vrf_vpp: vrf_max-vrf_min=2.22774
+
+Measurement "system_gain" FAIL'ed
+mixer_gain: vin_vpp/vrf_vpp=0.999995
+
+
+Date: Thu Feb 15 16:29:26 2024
+Total elapsed time: 0.142 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 7033
+traniter = 7030
+tranpoints = 3426
+accept = 2176
+rejected = 1250
+matrix size = 6
+fillins = 0
+solver = Normal
+Matrix Compiler1: 146 bytes object code size  0.1/0.0/[0.0]
+Matrix Compiler2: 306 bytes object code size  0.1/0.1/[0.0]
+

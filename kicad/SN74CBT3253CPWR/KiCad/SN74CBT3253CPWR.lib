@@ -1,0 +1,39 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model SN74CBT3253CPWR
+#/373232/1073791/2.50/16/3/Integrated Circuit
+DEF SN74CBT3253CPWR IC 0 30 Y Y 1 F N
+F0 "IC" 950 300 50 H V L CNN
+F1 "SN74CBT3253CPWR" 950 200 50 H V L CNN
+F2 "SOP65P640X120-16N" 950 100 50 H I L CNN
+F3 "http://www.ti.com/lit/gpn/sn74cbt3253c" 950 0 50 H I L CNN
+F4 "Dual 1-Of-4 FET Multiplexer/Demultiplexer with -2 V Undershoot-Protection" 950 -100 50 H I L CNN "Description"
+F5 "1.2" 950 -200 50 H I L CNN "Height"
+F6 "Texas Instruments" 950 -300 50 H I L CNN "Manufacturer_Name"
+F7 "SN74CBT3253CPWR" 950 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-SN74CBT3253CPWR" 950 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74CBT3253CPWR?qs=mE33ZKBHyE6I49B8KhfjUg%3D%3D" 950 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "SN74CBT3253CPWR" 950 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/sn74cbt3253cpwr/texas-instruments" 950 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X 1~OE 1 0 0 200 R 50 50 0 0 P
+X S1 2 0 -100 200 R 50 50 0 0 P
+X 1B4 3 0 -200 200 R 50 50 0 0 P
+X 1B3 4 0 -300 200 R 50 50 0 0 P
+X 1B2 5 0 -400 200 R 50 50 0 0 P
+X 1B1 6 0 -500 200 R 50 50 0 0 P
+X 1A 7 0 -600 200 R 50 50 0 0 P
+X GND 8 0 -700 200 R 50 50 0 0 P
+X VCC 16 1100 0 200 L 50 50 0 0 P
+X 2~OE 15 1100 -100 200 L 50 50 0 0 P
+X S0 14 1100 -200 200 L 50 50 0 0 P
+X 2B4 13 1100 -300 200 L 50 50 0 0 P
+X 2B3 12 1100 -400 200 L 50 50 0 0 P
+X 2B2 11 1100 -500 200 L 50 50 0 0 P
+X 2B1 10 1100 -600 200 L 50 50 0 0 P
+X 2A 9 1100 -700 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -800 200 -800 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

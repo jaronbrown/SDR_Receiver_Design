@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=OPA1612AIDR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=4.1
+Released=2015-10-29 08:38:01
+Downloaded=2024-01-26 20:43:01
+3D=Y

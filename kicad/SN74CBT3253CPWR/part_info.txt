@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=SN74CBT3253CPWR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=16
+Version=2.1
+Released=2019-02-03 12:00:07
+Downloaded=2024-01-26 05:55:58
+3D=Y

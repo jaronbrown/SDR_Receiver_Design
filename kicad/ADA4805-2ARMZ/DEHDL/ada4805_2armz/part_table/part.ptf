@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ADA4805_2ARMZ'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "ADA4805-2ARMZ" (!) = "", "SOP65P490X110-8N", "Small Outline Packages", "584-ADA4805-2ARMZ", "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADA4805-2ARMZ?qs=94CH1SeFPDbIgIDzbbE15w%3D%3D", "ADA4805-2ARMZ", "https://www.arrow.com/en/products/ada4805-2armz/analog-devices?region=nac", "Dual, 0.2 V/C Offset Drift, 105 MHz Low Power, Low Noise, Rail-to-Rail Amplifier", "https://www.analog.com/ADA4805-2/datasheet", "1.1 mm"
+END_PART
+
+END.

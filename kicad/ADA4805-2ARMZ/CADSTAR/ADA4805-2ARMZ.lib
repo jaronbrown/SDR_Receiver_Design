@@ -1,0 +1,18 @@
+.ADA4805-2ARMZ :1 ;Dual, 0.2 V/C Offset Drift, 105 MHz Low Power, Low Noise, Rail-to-Rail Amplifier
+SOP65P490X110-8N
+*STM IC
+*NGS
+*PLB 1="VOUT1" 2="-IN1" 3="+IN1" 4="-VS" 5="+IN2" 6="-IN2" 7="VOUT2" 8="+VS"
+*MXP 8
+*DFN ADA4805-2ARMZ
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (ADA4805-2ARMZ)
+~!Mouser Part Number (584-ADA4805-2ARMZ)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADA4805-2ARMZ?qs=94CH1SeFPDbIgIDzbbE15w%3D%3D)
+~!Arrow Part Number (ADA4805-2ARMZ)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/ada4805-2armz/analog-devices?region=nac)
+~!Link Datasheet (https://www.analog.com/ADA4805-2/datasheet)
+~!Height (1.1mm)
+~!3D_Model (ADA4805-2ARMZ)
+ADA4805-2ARMZ
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

@@ -1,0 +1,50 @@
+Circuit: * C:\Users\beagl\OneDrive\Documents\College Classes\ENGR357 - Engineering Electronics 2\ENGR357_Receiver_Design\engr357-receiver-design\spice\HF_bandpass_Tayloe.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+vout_max: MAX(v(vout))=3.3623 FROM 0 TO 0.0005
+vout_min: MIN(v(vout))=3.36178 FROM 0 TO 0.0005
+vout_vpp: vout_max-vout_min=0.000526667
+vin_max: MAX(v(vin))=2.25007 FROM 0 TO 0.0005
+vin_min: MIN(v(vin))=2.24993 FROM 0 TO 0.0005
+vin_vpp: vin_max-vin_min=0.000139713
+amp_gain: -vout_vpp/vin_vpp=-3.76962
+
+
+Date: Mon Feb 19 21:41:02 2024
+Total elapsed time: 174.993 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 8662406
+traniter = 8661788
+tranpoints = 4211084
+accept = 2923334
+rejected = 1287750
+matrix size = 258
+fillins = 382
+solver = Normal
+Avg thread counts: 2.0/3.0/1.0/1.0
+Matrix Compiler1: 29.52 KB object code size  9.5/5.6/[4.5]
+Matrix Compiler2: 25.62 KB object code size  2.0/3.1/[1.2]
+

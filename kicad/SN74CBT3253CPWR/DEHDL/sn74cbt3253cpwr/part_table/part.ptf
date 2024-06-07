@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SN74CBT3253CPWR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "SN74CBT3253CPWR" (!) = "", "SOP65P640X120-16N", "Small Outline Packages", "595-SN74CBT3253CPWR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74CBT3253CPWR?qs=mE33ZKBHyE6I49B8KhfjUg%3D%3D", "SN74CBT3253CPWR", "https://www.arrow.com/en/products/sn74cbt3253cpwr/texas-instruments", "Dual 1-Of-4 FET Multiplexer/Demultiplexer with -2 V Undershoot-Protection", "http://www.ti.com/lit/gpn/sn74cbt3253c", "1.2 mm"
+END_PART
+
+END.

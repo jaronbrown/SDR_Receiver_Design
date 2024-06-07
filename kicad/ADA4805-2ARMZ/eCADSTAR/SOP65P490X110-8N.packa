@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ADA4805-2ARMZ"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-02-19-14:56:37)
+    (mountForm default
+        (footprintRef "SOP65P490X110-8N")
+        (spec "System")
+    )
+)
