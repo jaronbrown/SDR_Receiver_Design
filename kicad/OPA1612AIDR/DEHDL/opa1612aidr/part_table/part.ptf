@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'OPA1612AIDR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "OPA1612AIDR" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "595-OPA1612AIDR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/OPA1612AIDR?qs=6805eV47HhYG%252BLJtIoYNNw%3D%3D", "OPA1612AIDR", "https://www.arrow.com/en/products/opa1612aidr/texas-instruments?region=nac", "SoundPlus Audio Operational Amplifier with 1.1nV/Hz Noise, Low THD and Precision", "http://www.ti.com/lit/ds/symlink/opa1612.pdf", "1.75 mm"
+END_PART
+
+END.

@@ -1,0 +1,8 @@
+spice/*.raw
+kicad/ENGR357-receiverDesign-backups
+python/.vscode
+python/.micropico
+startDocker.sh
+quisk/*
+!quisk/quisk_settings.json
+!quisk/quisk_conf*

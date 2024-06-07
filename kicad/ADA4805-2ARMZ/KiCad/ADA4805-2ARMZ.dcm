@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADA4805-2ARMZ
+D Dual, 0.2 V/C Offset Drift, 105 MHz Low Power, Low Noise, Rail-to-Rail Amplifier
+K
+F https://www.analog.com/ADA4805-2/datasheet
+$ENDCMP
+#
+#End Doc Library

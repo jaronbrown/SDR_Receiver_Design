@@ -1,0 +1,18 @@
+.OPA1612AIDR :1 ;SoundPlus Audio Operational Amplifier with 1.1nV/Hz Noise, Low THD and Precision
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="OUT A" 2="-IN A" 3="+IN A" 4="V-" 5="+IN B" 6="-IN B" 7="OUT B" 8="V+"
+*MXP 8
+*DFN OPA1612AIDR
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (OPA1612AIDR)
+~!Mouser Part Number (595-OPA1612AIDR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/OPA1612AIDR?qs=6805eV47HhYG%252BLJtIoYNNw%3D%3D)
+~!Arrow Part Number (OPA1612AIDR)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/opa1612aidr/texas-instruments?region=nac)
+~!Link Datasheet (http://www.ti.com/lit/ds/symlink/opa1612.pdf)
+~!Height (1.75mm)
+~!3D_Model (OPA1612AIDR)
+OPA1612AIDR
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

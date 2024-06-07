@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74CBT3253CPWR
+D Dual 1-Of-4 FET Multiplexer/Demultiplexer with -2 V Undershoot-Protection
+K
+F http://www.ti.com/lit/gpn/sn74cbt3253c
+$ENDCMP
+#
+#End Doc Library

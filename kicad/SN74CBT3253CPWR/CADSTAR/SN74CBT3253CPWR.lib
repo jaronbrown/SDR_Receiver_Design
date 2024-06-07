@@ -1,0 +1,18 @@
+.SN74CBT3253CPWR :1 ;Dual 1-Of-4 FET Multiplexer/Demultiplexer with -2 V Undershoot-Protection
+SOP65P640X120-16N
+*STM IC
+*NGS
+*PLB 1="1'OE'" 2="S1" 3="1B4" 4="1B3" 5="1B2" 6="1B1" 7="1A" 8="GND" 9="2A" 10="2B1" 11="2B2" 12="2B3" 13="2B4" 14="S0" 15="2'OE'" 16="VCC"
+*MXP 16
+*DFN SN74CBT3253CPWR
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (SN74CBT3253CPWR)
+~!Mouser Part Number (595-SN74CBT3253CPWR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74CBT3253CPWR?qs=mE33ZKBHyE6I49B8KhfjUg%3D%3D)
+~!Arrow Part Number (SN74CBT3253CPWR)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/sn74cbt3253cpwr/texas-instruments)
+~!Link Datasheet (http://www.ti.com/lit/gpn/sn74cbt3253c)
+~!Height (1.2mm)
+~!3D_Model (SN74CBT3253CPWR)
+SN74CBT3253CPWR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 16.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 
